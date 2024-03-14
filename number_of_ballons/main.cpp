@@ -1,4 +1,4 @@
-/* fundammental of programming and computing with C++ practice exericse
+/* fundammental of programming and computing with C++ practice exericse AASTU
  Group name = THE IT CROWD
  */
 #include <iostream>
