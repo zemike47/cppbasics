@@ -1,5 +1,4 @@
 // Airline reservation system
-// Airline reservation system
 #include <iostream>
 #include <string.h>
 using namespace std;
